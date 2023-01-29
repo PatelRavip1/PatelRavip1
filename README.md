@@ -76,7 +76,7 @@
     </a>
        </a>
         <a href="https://clickup.com/" target="_blank" rel="noreferrer">
-        <img src="https://clickup.com/images/brand-assets/logo-symbol-color.svg" alt="clickup" width="40" height="40" />
+        <img src="https://clickup.com/images/brand-assets/logo-symbol-color.svg" alt="clickup" width="35" height="40" />
     </a>
 </p>
 <h3 align="left">Support:</h3>
