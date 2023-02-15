@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Patel</h1>
-<h3 align="center">I have a bachelor's degree in information technology </br> I have 7 months of experience working as a backend developer</br>and am currently pursuing a master's degree in IT.</h3>
+<h3 align="center">I have a bachelor's degree in information technology </br> I have 8 months of experience working as a backend developer</br>and am currently pursuing a master's degree in IT.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/ravi-047" target="blank">
